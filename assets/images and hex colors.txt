@@ -1,0 +1,30 @@
+Hex-Colors -
+Header:
+height: 90px;
+background color: #c2c2c2
+
+Text Links:
+color: #39bcff
+
+Images -
+Header:
+https://i.ibb.co/6HFWpXT/atmos-logo.png
+
+Other Ways To Pay Column:
+https://i.ibb.co/vBw2FHb/ways-to-pay-header.png
+https://i.ibb.co/vVGgfmM/one-time-payment.png
+https://i.ibb.co/HGddvqv/pay-by-phone.png
+https://i.ibb.co/Wzvb665/pay-in-person.png
+
+Smell Gas Column:
+https://i.ibb.co/Mc1mT46/mascot.png
+
+Go Green Section:
+https://i.ibb.co/DGQRX6V/go-green.png
+
+Social Media Icons:
+https://i.ibb.co/TqvGFbb/fb-flogo.png
+https://i.ibb.co/GsYv1yt/twitterlogo-55acee.png
+https://i.ibb.co/S5j1rgP/youtube-social-icon-red-128px.png
+https://i.ibb.co/YfnGtyM/instagram-glyph-logo-png.png
+https://i.ibb.co/z4DYJRV/linkedin-2c-pms-2in.png

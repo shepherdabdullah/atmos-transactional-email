@@ -1,0 +1,12 @@
+<mjml>
+  <mj-body>
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section css-class="header">
+      <mj-column>
+        <mj-image width="121px" src="https://i.ibb.co/6HFWpXT/atmos-logo.png" alt="atoms logo" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
