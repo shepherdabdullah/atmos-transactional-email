@@ -1,11 +1,43 @@
 <mjml>
-  <mj-body>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      p {
+        color: black;
+      }
+
+      a {
+        text-decoration: none;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .header {
+        background-color: #c2c2c2;
+      }
+
+      .section-padding {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ddd">
     <mj-raw>
       <!-- Header -->
     </mj-raw>
-    <mj-section css-class="header">
-      <mj-column>
-        <mj-image width="121px" src="https://i.ibb.co/6HFWpXT/atmos-logo.png" alt="atoms logo" />
+    <mj-section css-class="header section-padding">
+      <mj-column vertical-align="middle">
+        <mj-image align="left" width="121px" src="https://i.ibb.co/6HFWpXT/atmos-logo.png" alt="atmos logo" />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right">
+          <a href="https://www.atmosenergy.com/">
+            <p>www.atmosenergy.com</p>
+          </a>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
