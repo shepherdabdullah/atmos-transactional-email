@@ -135,7 +135,7 @@
                 style="
                   direction: ltr;
                   font-size: 0px;
-                  padding: 0;
+                  padding: 0px 0;
                   text-align: center;
                 "
               >
@@ -235,7 +235,7 @@
                           align="right"
                           style="
                             font-size: 0px;
-                            padding: 0px 20px;
+                            padding: 0px 15px;
                             word-break: break-word;
                           "
                         >
@@ -286,7 +286,7 @@
                 style="
                   direction: ltr;
                   font-size: 0px;
-                  padding: 0px 0;
+                  padding: 8px 0 30px;
                   text-align: center;
                 "
               >
@@ -317,7 +317,7 @@
                           class="transaction-details"
                           style="
                             font-size: 0px;
-                            padding: 10px 25px;
+                            padding: 0px 25px;
                             word-break: break-word;
                           "
                         >
@@ -363,6 +363,405 @@
                               >
                             </p>
                           </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><!
+      [endif]--><!--2 Column Section--><!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="margin: 0px auto; max-width: 600px">
+        <table
+          align="center"
+          border="0"
+          cellpadding="0"
+          cellspacing="0"
+          role="presentation"
+          style="width: 100%"
+        >
+          <tbody>
+            <tr>
+              <td
+                style="
+                  direction: ltr;
+                  font-size: 0px;
+                  padding: 20px 0;
+                  text-align: center;
+                "
+              >
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:300px;" ><![endif]-->
+                <div
+                  class="mj-column-per-50 mj-outlook-group-fix"
+                  style="
+                    font-size: 0px;
+                    text-align: left;
+                    direction: ltr;
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 100%;
+                  "
+                >
+                  <table
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                    style="vertical-align: top"
+                    width="100%"
+                  >
+                    <tbody>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font-size: 0px;
+                            padding: 0;
+                            word-break: break-word;
+                          "
+                        >
+                          <table
+                            border="0"
+                            cellpadding="0"
+                            cellspacing="0"
+                            role="presentation"
+                            style="
+                              border-collapse: collapse;
+                              border-spacing: 0px;
+                            "
+                          >
+                            <tbody>
+                              <tr>
+                                <td style="width: 260px">
+                                  <img
+                                    alt="other ways to pay"
+                                    height="auto"
+                                    src="https://i.ibb.co/vBw2FHb/ways-to-pay-header.png"
+                                    style="
+                                      border: 0;
+                                      display: block;
+                                      outline: none;
+                                      text-decoration: none;
+                                      height: auto;
+                                      width: 100%;
+                                      font-size: 13px;
+                                    "
+                                    width="260"
+                                  />
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font-size: 0px;
+                            padding: 0;
+                            word-break: break-word;
+                          "
+                        >
+                          <table
+                            border="0"
+                            cellpadding="0"
+                            cellspacing="0"
+                            role="presentation"
+                            style="
+                              border-collapse: collapse;
+                              border-spacing: 0px;
+                            "
+                          >
+                            <tbody>
+                              <tr>
+                                <td style="width: 260px">
+                                  <a
+                                    href="https://www.atmosenergy.com/accountcenter/makepayoutside/makepaymentLanding.html"
+                                    target="_blank"
+                                    ><img
+                                      alt="one time payment"
+                                      height="auto"
+                                      src="https://i.ibb.co/vVGgfmM/one-time-payment.png"
+                                      style="
+                                        border: 0;
+                                        display: block;
+                                        outline: none;
+                                        text-decoration: none;
+                                        height: auto;
+                                        width: 100%;
+                                        font-size: 13px;
+                                      "
+                                      width="260"
+                                  /></a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font-size: 0px;
+                            padding: 0;
+                            word-break: break-word;
+                          "
+                        >
+                          <table
+                            border="0"
+                            cellpadding="0"
+                            cellspacing="0"
+                            role="presentation"
+                            style="
+                              border-collapse: collapse;
+                              border-spacing: 0px;
+                            "
+                          >
+                            <tbody>
+                              <tr>
+                                <td style="width: 260px">
+                                  <a
+                                    href="https://www.atmosenergy.com/customer-service/pay-your-bill"
+                                    target="_blank"
+                                    ><img
+                                      alt="pay by phone"
+                                      height="auto"
+                                      src="https://i.ibb.co/HGddvqv/pay-by-phone.png"
+                                      style="
+                                        border: 0;
+                                        display: block;
+                                        outline: none;
+                                        text-decoration: none;
+                                        height: auto;
+                                        width: 100%;
+                                        font-size: 13px;
+                                      "
+                                      width="260"
+                                  /></a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font-size: 0px;
+                            padding: 0;
+                            word-break: break-word;
+                          "
+                        >
+                          <table
+                            border="0"
+                            cellpadding="0"
+                            cellspacing="0"
+                            role="presentation"
+                            style="
+                              border-collapse: collapse;
+                              border-spacing: 0px;
+                            "
+                          >
+                            <tbody>
+                              <tr>
+                                <td style="width: 260px">
+                                  <a
+                                    href="https://www.atmosenergy.com/accountcenter/paymentcenter/outsideAC.html"
+                                    target="_blank"
+                                    ><img
+                                      alt="pay in person"
+                                      height="auto"
+                                      src="https://i.ibb.co/Wzvb665/pay-in-person.png"
+                                      style="
+                                        border: 0;
+                                        display: block;
+                                        outline: none;
+                                        text-decoration: none;
+                                        height: auto;
+                                        width: 100%;
+                                        font-size: 13px;
+                                      "
+                                      width="260"
+                                  /></a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:300px;" ><![endif]-->
+                <div
+                  class="mj-column-per-50 mj-outlook-group-fix"
+                  style="
+                    font-size: 0px;
+                    text-align: left;
+                    direction: ltr;
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 100%;
+                  "
+                >
+                  <table
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                    style="vertical-align: top"
+                    width="100%"
+                  >
+                    <tbody>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font-size: 0px;
+                            padding: 0;
+                            word-break: break-word;
+                          "
+                        >
+                          <table
+                            border="0"
+                            cellpadding="0"
+                            cellspacing="0"
+                            role="presentation"
+                            style="
+                              border-collapse: collapse;
+                              border-spacing: 0px;
+                            "
+                          >
+                            <tbody>
+                              <tr>
+                                <td style="width: 260px">
+                                  <a
+                                    href="https://www.atmosenergy.com/safety/recognizing-leak"
+                                    target="_blank"
+                                    ><img
+                                      alt="smell gass act fast"
+                                      height="auto"
+                                      src="https://i.ibb.co/Mc1mT46/mascot.png"
+                                      style="
+                                        border: 0;
+                                        display: block;
+                                        outline: none;
+                                        text-decoration: none;
+                                        height: auto;
+                                        width: 100%;
+                                        font-size: 13px;
+                                      "
+                                      width="260"
+                                  /></a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><!
+      [endif]--><!--Go Green Section--><!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="margin: 0px auto; max-width: 600px">
+        <table
+          align="center"
+          border="0"
+          cellpadding="0"
+          cellspacing="0"
+          role="presentation"
+          style="width: 100%"
+        >
+          <tbody>
+            <tr>
+              <td
+                style="
+                  direction: ltr;
+                  font-size: 0px;
+                  padding: 0px 0;
+                  text-align: center;
+                "
+              >
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+                <div
+                  class="mj-column-per-100 mj-outlook-group-fix"
+                  style="
+                    font-size: 0px;
+                    text-align: left;
+                    direction: ltr;
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 100%;
+                  "
+                >
+                  <table
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                    style="vertical-align: top"
+                    width="100%"
+                  >
+                    <tbody>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font-size: 0px;
+                            padding: 0px 10px;
+                            word-break: break-word;
+                          "
+                        >
+                          <table
+                            border="0"
+                            cellpadding="0"
+                            cellspacing="0"
+                            role="presentation"
+                            style="
+                              border-collapse: collapse;
+                              border-spacing: 0px;
+                            "
+                          >
+                            <tbody>
+                              <tr>
+                                <td style="width: 560px">
+                                  <a
+                                    href="https://www.atmosenergy.com/customer-service/account-options"
+                                    target="_blank"
+                                    ><img
+                                      alt="go green using E-Bill"
+                                      height="auto"
+                                      src="https://i.ibb.co/DGQRX6V/go-green.png"
+                                      style="
+                                        border: 0;
+                                        display: block;
+                                        outline: none;
+                                        text-decoration: none;
+                                        height: auto;
+                                        width: 100%;
+                                        font-size: 13px;
+                                      "
+                                      width="560"
+                                  /></a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
                         </td>
                       </tr>
                     </tbody>
