@@ -3,12 +3,11 @@
 </mj-raw>
 <mj-section css-class="header section-padding">
   <mj-column vertical-align="middle">
-    <mj-image align="left" width="121px" src="https://i.ibb.co/6HFWpXT/atmos-logo.png" alt="atmos logo" />
+    <mj-image align="left" width="121px" href="https://www.atmosenergy.com/" src="https://i.ibb.co/6HFWpXT/atmos-logo.png" alt="atmos logo" />
   </mj-column>
   <mj-column vertical-align="middle">
     <mj-text align="right">
-      <a href="https://www.atmosenergy.com/">
-        <p>www.atmosenergy.com</p>
+      <p>www.atmosenergy.com</p>
       </a>
     </mj-text>
   </mj-column>

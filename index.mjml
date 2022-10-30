@@ -3,18 +3,12 @@
     <mj-style>
       * {
         box-sizing: border-box;
-      }
-
-      p {
-        color: black;
-      }
-
-      a {
-        text-decoration: none;
+        font-family: Helvetica, arial, sans-serif;
       }
     </mj-style>
     <mj-style inline="inline">
-      .header {
+      .header,
+      .footer {
         background-color: #c2c2c2;
       }
 
@@ -22,10 +16,53 @@
         padding-left: 10px;
         padding-right: 10px;
       }
+
+      .transaction-details p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: left;
+      }
+
+      .transaction a {
+        text-decoration: underline;
+        color: #39bcff;
+      }
     </mj-style>
   </mj-head>
   <mj-body background-color="#ddd">
+    <mj-raw>
+      <!--Header-->
+    </mj-raw>
     <mj-include path="./components/header.mjml" />
+    <mj-raw>
+      <!--Transaction Info Section-->
+    </mj-raw>
+    <mj-section css-class="transaction section-padding">
+      <mj-column>
+        <mj-text css-class="transaction-details">
+          <p>Dear VALUED CUSTOMER,</p>
+          <p>This is confirmation of your payment to Atmos Energy. Your payment has been
+            received with the following details:</p>
+          <p><b>Payment date:</b> 10/26/2022<br>
+            <b>Payment amount:</b> $57.74<br>
+            <b>Payment method:</b> CheckFree eLockbox<br>
+            <b>Confirmation number:</b> 500007350318
+          </p>
+          <p><b>Account Number:</b> 0123456789<br>
+            <b>Service Address:</b> 123 Main Street, Town City LA 80085-4311
+          </p>
+          <p>Atmos Energy appreciates your continued business.<br>
+            To manage your preferences, <a href="https://www.atmosenergy.com/accountcenter/logon/login.html">click here<a>.</p>
+        </mj-text>
 
+      </mj-column>
+
+    </mj-section>
+
+
+    <mj-raw>
+      <!--Footer-->
+    </mj-raw>
+    <mj-include path="./components/footer.mjml" />
   </mj-body>
 </mjml>
