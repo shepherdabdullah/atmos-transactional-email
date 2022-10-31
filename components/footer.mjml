@@ -3,8 +3,8 @@
 </mj-raw>
 <mj-section css-class="footer section-padding">
   <mj-column>
-    <mj-text>
-      Footer
+    <mj-text font-size="18px" align="center" padding="0">
+      CONNECT WITH US
     </mj-text>
   </mj-column>
 </mj-section>

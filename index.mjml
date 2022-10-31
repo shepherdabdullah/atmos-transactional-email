@@ -20,7 +20,7 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#ddd">
+  <mj-body background-color="#fff">
     <mj-raw>
       <!--Header-->
     </mj-raw>
@@ -52,10 +52,10 @@
     </mj-raw>
     <mj-section>
       <mj-column>
-        <mj-image width="260" padding="0" src="https://i.ibb.co/vBw2FHb/ways-to-pay-header.png" alt="other ways to pay" />
-        <mj-image width="260" padding="0" href="https://www.atmosenergy.com/accountcenter/makepayoutside/makepaymentLanding.html" src="https://i.ibb.co/vVGgfmM/one-time-payment.png" alt="one time payment" />
-        <mj-image width="260" padding="0" href="https://www.atmosenergy.com/customer-service/pay-your-bill" src="https://i.ibb.co/HGddvqv/pay-by-phone.png" alt="pay by phone" />
-        <mj-image width="260" padding="0" href="https://www.atmosenergy.com/accountcenter/paymentcenter/outsideAC.html" src="https://i.ibb.co/Wzvb665/pay-in-person.png" alt="pay in person" />
+        <mj-image width="260px" padding="0" src="https://i.ibb.co/vBw2FHb/ways-to-pay-header.png" alt="other ways to pay" />
+        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/accountcenter/makepayoutside/makepaymentLanding.html" src="https://i.ibb.co/vVGgfmM/one-time-payment.png" alt="one time payment" />
+        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/customer-service/pay-your-bill" src="https://i.ibb.co/HGddvqv/pay-by-phone.png" alt="pay by phone" />
+        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/accountcenter/paymentcenter/outsideAC.html" src="https://i.ibb.co/Wzvb665/pay-in-person.png" alt="pay in person" />
       </mj-column>
       <mj-column>
         <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/safety/recognizing-leak" src="https://i.ibb.co/Mc1mT46/mascot.png" alt="smell gass act fast" />
@@ -67,14 +67,28 @@
     <mj-section>
       <mj-column>
         <mj-image href="https://www.atmosenergy.com/customer-service/account-options" src="https://i.ibb.co/DGQRX6V/go-green.png" alt="go green using E-Bill" />
-
       </mj-column>
     </mj-section>
-
-
+    <mj-raw>
+      <!--Customer Service Section-->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="15px" align="center" line-height="20px">
+          <p>For customer service, visit our website at <a style="text-decoration: underline; color:#39bcff;" href="https://www.atmosenergy.com/">www.atmosenergy.com</a> or<br>
+            call 1-888-286-6700. Business hours are Monday-Friday 7 a.m. to 6 p.m. (CST)</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-raw>
       <!--Footer-->
     </mj-raw>
-    <mj-include path="./components/footer.mjml" />
+    <mj-section css-class="footer section-padding">
+      <mj-column>
+        <mj-text font-size="18px" align="center" padding="0">
+          CONNECT WITH US
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
