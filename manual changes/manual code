@@ -884,7 +884,7 @@
                 style="
                   direction: ltr;
                   font-size: 0px;
-                  padding: 20px 0;
+                  padding: 10px 0;
                   text-align: center;
                 "
               >
@@ -935,6 +935,507 @@
                   </table>
                 </div>
                 <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table></td></tr><!
+                [endif]--><!--Footer Social Media Icons--><!--[if mso | IE]><tr><td class="footer-outlook" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="footer-outlook" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                  <div
+                  class="footer"
+                  style="
+                    background-color: #c2c2c2;
+                    margin: 0px auto;
+                    max-width: 600px;
+                  "
+                >
+                  <table
+                    align="center"
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                    style="width: 100%"
+                  >
+                    <tbody>
+                      <tr>
+                        <td
+                          style="
+                            direction: ltr;
+                            font-size: 0px;
+                            padding: 0;
+                            text-align: center;
+                          "
+                        >
+                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="social-icons-size-outlook" style="width:600px;" ><![endif]-->
+                          <div
+                            class="mj-column-per-100 mj-outlook-group-fix social-icons-size"
+                            style="
+                              max-width: 250px;
+                              font-size: 0;
+                              line-height: 0;
+                              text-align: left;
+                              display: inline-block;
+                              width: 100%;
+                              direction: ltr;
+                            "
+                          >
+                            <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:120px;" ><![endif]-->
+                            <div
+                              class="mj-column-per-20 mj-outlook-group-fix"
+                              style="
+                                font-size: 0px;
+                                text-align: left;
+                                direction: ltr;
+                                display: inline-block;
+                                vertical-align: top;
+                                width: 20%;
+                              "
+                            >
+                              <table
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                                style="vertical-align: top"
+                                width="100%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      align="center"
+                                      style="
+                                        font-size: 0px;
+                                        padding: 0;
+                                        word-break: break-word;
+                                      "
+                                    >
+                                      <table
+                                        border="0"
+                                        cellpadding="0"
+                                        cellspacing="0"
+                                        role="presentation"
+                                        style="
+                                          border-collapse: collapse;
+                                          border-spacing: 0px;
+                                        "
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td style="width: 32px">
+                                              <a
+                                                href="https://www.facebook.com/atmosenergy"
+                                                target="_blank"
+                                                ><img
+                                                  alt="Facebook logo"
+                                                  height="32"
+                                                  src="https://i.ibb.co/TqvGFbb/fb-flogo.png"
+                                                  style="
+                                                    border: 0;
+                                                    display: block;
+                                                    outline: none;
+                                                    text-decoration: none;
+                                                    height: 32px;
+                                                    width: 100%;
+                                                    font-size: 13px;
+                                                  "
+                                                  width="32"
+                                              /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                            <!--[if mso | IE]></td><td style="vertical-align:top;width:120px;" ><![endif]-->
+                            <div
+                              class="mj-column-per-20 mj-outlook-group-fix"
+                              style="
+                                font-size: 0px;
+                                text-align: left;
+                                direction: ltr;
+                                display: inline-block;
+                                vertical-align: top;
+                                width: 20%;
+                              "
+                            >
+                              <table
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                                style="vertical-align: top"
+                                width="100%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      align="center"
+                                      style="
+                                        font-size: 0px;
+                                        padding: 0;
+                                        word-break: break-word;
+                                      "
+                                    >
+                                      <table
+                                        border="0"
+                                        cellpadding="0"
+                                        cellspacing="0"
+                                        role="presentation"
+                                        style="
+                                          border-collapse: collapse;
+                                          border-spacing: 0px;
+                                        "
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td style="width: 32px">
+                                              <a
+                                                href="https://twitter.com/atmosenergy"
+                                                target="_blank"
+                                                ><img
+                                                  alt="Twitter logo"
+                                                  height="32"
+                                                  src="https://i.ibb.co/GsYv1yt/twitterlogo-55acee.png"
+                                                  style="
+                                                    border: 0;
+                                                    display: block;
+                                                    outline: none;
+                                                    text-decoration: none;
+                                                    height: 32px;
+                                                    width: 100%;
+                                                    font-size: 13px;
+                                                  "
+                                                  width="32"
+                                              /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                            <!--[if mso | IE]></td><td style="vertical-align:top;width:120px;" ><![endif]-->
+                            <div
+                              class="mj-column-per-20 mj-outlook-group-fix"
+                              style="
+                                font-size: 0px;
+                                text-align: left;
+                                direction: ltr;
+                                display: inline-block;
+                                vertical-align: top;
+                                width: 20%;
+                              "
+                            >
+                              <table
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                                style="vertical-align: top"
+                                width="100%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      align="center"
+                                      style="
+                                        font-size: 0px;
+                                        padding: 0;
+                                        word-break: break-word;
+                                      "
+                                    >
+                                      <table
+                                        border="0"
+                                        cellpadding="0"
+                                        cellspacing="0"
+                                        role="presentation"
+                                        style="
+                                          border-collapse: collapse;
+                                          border-spacing: 0px;
+                                        "
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td style="width: 32px">
+                                              <a
+                                                href="https://www.youtube.com/user/atmosenergyvideos"
+                                                target="_blank"
+                                                ><img
+                                                  alt="Youtube logo"
+                                                  height="32"
+                                                  src="https://i.ibb.co/S5j1rgP/youtube-social-icon-red-128px.png"
+                                                  style="
+                                                    border: 0;
+                                                    display: block;
+                                                    outline: none;
+                                                    text-decoration: none;
+                                                    height: 32px;
+                                                    width: 100%;
+                                                    font-size: 13px;
+                                                  "
+                                                  width="32"
+                                              /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                            <!--[if mso | IE]></td><td style="vertical-align:top;width:120px;" ><![endif]-->
+                            <div
+                              class="mj-column-per-20 mj-outlook-group-fix"
+                              style="
+                                font-size: 0px;
+                                text-align: left;
+                                direction: ltr;
+                                display: inline-block;
+                                vertical-align: top;
+                                width: 20%;
+                              "
+                            >
+                              <table
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                                style="vertical-align: top"
+                                width="100%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      align="center"
+                                      style="
+                                        font-size: 0px;
+                                        padding: 0;
+                                        word-break: break-word;
+                                      "
+                                    >
+                                      <table
+                                        border="0"
+                                        cellpadding="0"
+                                        cellspacing="0"
+                                        role="presentation"
+                                        style="
+                                          border-collapse: collapse;
+                                          border-spacing: 0px;
+                                        "
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td style="width: 32px">
+                                              <a
+                                                href="https://www.instagram.com/atmosenergy/"
+                                                target="_blank"
+                                                ><img
+                                                  alt="Instagram logo"
+                                                  height="32"
+                                                  src="https://i.ibb.co/YfnGtyM/instagram-glyph-logo-png.png"
+                                                  style="
+                                                    border: 0;
+                                                    display: block;
+                                                    outline: none;
+                                                    text-decoration: none;
+                                                    height: 32px;
+                                                    width: 100%;
+                                                    font-size: 13px;
+                                                  "
+                                                  width="32"
+                                              /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                            <!--[if mso | IE]></td><td style="vertical-align:top;width:120px;" ><![endif]-->
+                            <div
+                              class="mj-column-per-20 mj-outlook-group-fix"
+                              style="
+                                font-size: 0px;
+                                text-align: left;
+                                direction: ltr;
+                                display: inline-block;
+                                vertical-align: top;
+                                width: 20%;
+                              "
+                            >
+                              <table
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                                style="vertical-align: top"
+                                width="100%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      align="center"
+                                      style="
+                                        font-size: 0px;
+                                        padding: 0;
+                                        word-break: break-word;
+                                      "
+                                    >
+                                      <table
+                                        border="0"
+                                        cellpadding="0"
+                                        cellspacing="0"
+                                        role="presentation"
+                                        style="
+                                          border-collapse: collapse;
+                                          border-spacing: 0px;
+                                        "
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td style="width: 32px">
+                                              <a
+                                                href="https://www.linkedin.com/company/15870?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A15870%2Cidx%3A2-1-4%2CtarId%3A1449602056335%2Ctas%3AAtmos%20Energy"
+                                                target="_blank"
+                                                ><img
+                                                  alt="Linkedin logo"
+                                                  height="32"
+                                                  src="https://i.ibb.co/z4DYJRV/linkedin-2c-pms-2in.png"
+                                                  style="
+                                                    border: 0;
+                                                    display: block;
+                                                    outline: none;
+                                                    text-decoration: none;
+                                                    height: 32px;
+                                                    width: 100%;
+                                                    font-size: 13px;
+                                                  "
+                                                  width="32"
+                                              /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                            <!--[if mso | IE]></td></tr></table><![endif]-->
+                          </div>
+                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table></td></tr><!
+                [endif]--><!--Footer End Fine Print--><!--[if mso | IE]><tr><td class="footer-outlook section-padding-outlook" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="footer-outlook section-padding-outlook" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                <div
+                  class="footer section-padding"
+                  style="
+                    background-color: #c2c2c2;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    margin: 0px auto;
+                    max-width: 600px;
+                  "
+                >
+                  <table
+                    align="center"
+                    border="0"
+                    cellpadding="0"
+                    cellspacing="0"
+                    role="presentation"
+                    style="width: 100%"
+                  >
+                    <tbody>
+                      <tr>
+                        <td
+                          style="
+                            direction: ltr;
+                            font-size: 0px;
+                            padding: 20px 0;
+                            text-align: center;
+                          "
+                        >
+                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="fine-print-outlook" style="vertical-align:top;width:600px;" ><![endif]-->
+                          <div
+                            class="mj-column-per-100 mj-outlook-group-fix fine-print"
+                            style="
+                              max-width: 560px;
+                              font-size: 0px;
+                              text-align: left;
+                              direction: ltr;
+                              display: inline-block;
+                              vertical-align: top;
+                              width: 100%;
+                            "
+                          >
+                            <table
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              role="presentation"
+                              style="vertical-align: top"
+                              width="100%"
+                            >
+                              <tbody>
+                                <tr>
+                                  <td
+                                    align="left"
+                                    style="
+                                      font-size: 0px;
+                                      padding: 10px 25px;
+                                      word-break: break-word;
+                                    "
+                                  >
+                                    <div
+                                      style="
+                                        font-family: Ubuntu, Helvetica, Arial,
+                                          sans-serif;
+                                        font-size: 11px;
+                                        line-height: 17px;
+                                        text-align: left;
+                                        color: #000000;
+                                      "
+                                    >
+                                      <p>
+                                        It is the customer's responsibility to
+                                        pay the Atmos Energy bill and to inform
+                                        Atmos Energy of any address changes
+                                        (email or street address)so the bill can
+                                        be delivered promptly. To ensure timely
+                                        receipt of your bill and other
+                                        communications, add this email address
+                                        to your approved mailing list. Atmos
+                                        Energy respects your email privacy and
+                                        does not sell or share your address with
+                                        others.
+                                      </p>
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
               </td>
             </tr>
           </tbody>
