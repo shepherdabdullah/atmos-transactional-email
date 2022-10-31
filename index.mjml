@@ -14,6 +14,10 @@
         background-color: #c2c2c2;
       }
 
+      .email-content {
+        background-color: #ffffff
+      }
+
       .section-padding {
         padding-left: 10px;
         padding-right: 10px;
@@ -33,63 +37,65 @@
       <!--Header-->
     </mj-raw>
     <mj-include path="./components/header.mjml" />
-    <mj-raw>
-      <!--Transaction Info Section-->
-    </mj-raw>
-    <mj-section css-class="transaction section-padding">
-      <mj-column>
-        <mj-text css-class="transaction-details" font-size="14px" line-height="20px" align="left">
-          <p>Dear VALUED CUSTOMER,</p>
-          <p>This is confirmation of your payment to Atmos Energy. Your payment has been
-            received with the following details:</p>
-          <p><b>Payment date:</b> 10/26/2022<br>
-            <b>Payment amount:</b> $57.74<br>
-            <b>Payment method:</b> CheckFree eLockbox<br>
-            <b>Confirmation number:</b> 500007350318
-          </p>
-          <p><b>Account Number:</b> 0123456789<br>
-            <b>Service Address:</b> 123 Main Street, Town City LA 80085-4311
-          </p>
-          <p>Atmos Energy appreciates your continued business.<br>
-            To manage your preferences, <a style="text-decoration: underline; color:#39bcff;" href="https://www.atmosenergy.com/accountcenter/logon/login.html">click here<a>.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--2 Column Section-->
-    </mj-raw>
-    <mj-section>
-      <mj-column>
-        <mj-image width="260px" padding="0" src="https://i.ibb.co/vBw2FHb/ways-to-pay-header.png" alt="other ways to pay" />
-        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/accountcenter/makepayoutside/makepaymentLanding.html" src="https://i.ibb.co/vVGgfmM/one-time-payment.png" alt="one time payment" />
-        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/customer-service/pay-your-bill" src="https://i.ibb.co/HGddvqv/pay-by-phone.png" alt="pay by phone" />
-        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/accountcenter/paymentcenter/outsideAC.html" src="https://i.ibb.co/Wzvb665/pay-in-person.png" alt="pay in person" />
-      </mj-column>
-      <mj-column>
-        <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/safety/recognizing-leak" src="https://i.ibb.co/Mc1mT46/mascot.png" alt="smell gass act fast" />
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--Go Green Section-->
-    </mj-raw>
-    <mj-section>
-      <mj-column>
-        <mj-image href="https://www.atmosenergy.com/customer-service/account-options" src="https://i.ibb.co/DGQRX6V/go-green.png" alt="go green using E-Bill" />
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--Customer Service Section-->
-    </mj-raw>
-    <mj-section>
-      <mj-column>
-        <mj-text font-size="15px" align="center" line-height="20px">
-          <p>For customer service, visit our website at <a style="text-decoration: underline; color:#39bcff;" href="https://www.atmosenergy.com/">www.atmosenergy.com</a> or<br>
-            call 1-888-286-6700. Business hours are Monday-Friday 7 a.m. to 6 p.m. (CST)</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--Footer-->
+    <mj-wrapper css-class="email-content">
+      <mj-raw>
+        <!--Transaction Info Section-->
+      </mj-raw>
+      <mj-section css-class="transaction section-padding">
+        <mj-column>
+          <mj-text css-class="transaction-details" font-size="14px" line-height="20px" align="left">
+            <p>Dear VALUED CUSTOMER,</p>
+            <p>This is confirmation of your payment to Atmos Energy. Your payment has been
+              received with the following details:</p>
+            <p><b>Payment date:</b> 10/26/2022<br>
+              <b>Payment amount:</b> $57.74<br>
+              <b>Payment method:</b> CheckFree eLockbox<br>
+              <b>Confirmation number:</b> 500007350318
+            </p>
+            <p><b>Account Number:</b> 0123456789<br>
+              <b>Service Address:</b> 123 Main Street, Town City LA 80085-4311
+            </p>
+            <p>Atmos Energy appreciates your continued business.<br>
+              To manage your preferences, <a style="text-decoration: underline; color:#39bcff;" href="https://www.atmosenergy.com/accountcenter/logon/login.html">click here<a>.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!--2 Column Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="260px" padding="0" src="https://i.ibb.co/vBw2FHb/ways-to-pay-header.png" alt="other ways to pay" />
+          <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/accountcenter/makepayoutside/makepaymentLanding.html" src="https://i.ibb.co/vVGgfmM/one-time-payment.png" alt="one time payment" />
+          <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/customer-service/pay-your-bill" src="https://i.ibb.co/HGddvqv/pay-by-phone.png" alt="pay by phone" />
+          <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/accountcenter/paymentcenter/outsideAC.html" src="https://i.ibb.co/Wzvb665/pay-in-person.png" alt="pay in person" />
+        </mj-column>
+        <mj-column>
+          <mj-image width="260px" padding="0" href="https://www.atmosenergy.com/safety/recognizing-leak" src="https://i.ibb.co/Mc1mT46/mascot.png" alt="smell gass act fast" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!--Go Green Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image href="https://www.atmosenergy.com/customer-service/account-options" src="https://i.ibb.co/DGQRX6V/go-green.png" alt="go green using E-Bill" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!--Customer Service Section-->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="15px" align="center" line-height="20px">
+            <p>For customer service, visit our website at <a style="text-decoration: underline; color:#39bcff;" href="https://www.atmosenergy.com/">www.atmosenergy.com</a> or<br>
+              call 1-888-286-6700. Business hours are Monday-Friday 7 a.m. to 6 p.m. (CST)</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+    </mj-wrapper>
+    <!--Footer-->
     </mj-raw>
     <mj-include path="./components/footer.mjml" />
   </mj-body>
