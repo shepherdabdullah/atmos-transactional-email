@@ -18,16 +18,16 @@
   <mj-section css-class="footer" padding="0">
     <mj-group css-class="social-icons-size">
       <mj-column>
-        <mj-image padding="0" href="https://www.facebook.com/atmosenergy" width="32px" height="32px" src="https://i.ibb.co/TqvGFbb/fb-flogo.png" alt="Facebook logo" />
+        <mj-image padding="0" href="https://www.facebook.com/atmosenergy" width="24px" height="24px" src="https://i.ibb.co/TqvGFbb/fb-flogo.png" alt="Facebook logo" />
       </mj-column>
       <mj-column>
-        <mj-image padding="0" href="https://twitter.com/atmosenergy" width="32px" height="32px" src="https://i.ibb.co/GsYv1yt/twitterlogo-55acee.png" alt="Twitter logo" />
+        <mj-image padding="0" href="https://twitter.com/atmosenergy" width="24px" height="24px" src="https://i.ibb.co/GsYv1yt/twitterlogo-55acee.png" alt="Twitter logo" />
       </mj-column>
       <mj-column>
-        <mj-image padding="0" href="https://www.youtube.com/user/atmosenergyvideos" width="32px" height="32px" src="https://i.ibb.co/S5j1rgP/youtube-social-icon-red-128px.png" alt="Youtube logo" />
+        <mj-image padding="0" href="https://www.youtube.com/user/atmosenergyvideos" width="24px" height="24px" src="https://i.ibb.co/S5j1rgP/youtube-social-icon-red-128px.png" alt="Youtube logo" />
       </mj-column>
       <mj-column>
-        <mj-image padding="0" href="https://www.instagram.com/atmosenergy/" width="32px" height="32px" src="https://i.ibb.co/YfnGtyM/instagram-glyph-logo-png.png" alt="Instagram logo" />
+        <mj-image padding="0" href="https://www.instagram.com/atmosenergy/" width="24px" height="24px" src="https://i.ibb.co/YfnGtyM/instagram-glyph-logo-png.png" alt="Instagram logo" />
       </mj-column>
       <mj-column>
         <mj-image padding="0" href="https://www.linkedin.com/company/15870?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A15870%2Cidx%3A2-1-4%2CtarId%3A1449602056335%2Ctas%3AAtmos%20Energy" width="32px" height="32px" src="https://i.ibb.co/z4DYJRV/linkedin-2c-pms-2in.png" alt="Linkedin logo" />
